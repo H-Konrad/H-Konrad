@@ -5,7 +5,9 @@ I am a Data Analytics MSc graduate from Queen Mary University of London, with a 
 ### Skills
 
 Languages: Python, SQL 
+
 Core Areas: Mathematics, Statistics, Machine Learning, Data Analysis & Visualisation
+
 Tools: PostgreSQL, Power BI, Google Cloud Platform (GCP), Git
 
 ### Featured Projects
