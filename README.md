@@ -12,15 +12,15 @@ Tools: PostgreSQL, Power BI, Google Cloud Platform (GCP), Git
 
 ### Featured Projects
 
-[**UK Electricity Demand Forecasting**](https://github.com/H-Konrad/uk-electricity-demand-forecasting):
+[**UK Electricity Demand Forecasting**](https://github.com/H-Konrad/uk-electricity-demand-forecasting)
 
 Built an end-to-end forecasting application using UK electricity market data and weather forecasts, combining data engineering, data analysis, machine learning, model evaluation, and deployment.
 
-[**Sales Performance Analysis**](https://github.com/H-Konrad/adventureworks-analysis):
+[**Sales Performance Analysis**](https://github.com/H-Konrad/adventureworks-analysis)
 
 SQL investigation of sales and revenue performance with an interactive Power BI dashboard. 
 
-[**Reinforcement Learning Dissertation**](https://github.com/H-Konrad/deep_reinforcement_learning_from_scratch):
+[**Reinforcement Learning Dissertation**](https://github.com/H-Konrad/deep_reinforcement_learning_from_scratch)
 
 Research exploring the effects of reward shaping on reinforcement learning agents using deep learning algorithms (DQN, Double DQN, PER, Duelling DQN). 
 
