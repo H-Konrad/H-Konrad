@@ -8,7 +8,7 @@ Languages: Python, SQL
 
 Core Areas: Mathematics, Statistics, Machine Learning, Data Analysis & Visualisation
 
-Tools: PostgreSQL, Power BI, Google Cloud Platform (GCP), Git
+Tools: PostgreSQL, Power BI, Google Cloud Platform (GCP), Git, Jupyter Notebooks
 
 ### Featured Projects
 
